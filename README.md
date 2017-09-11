@@ -1,6 +1,6 @@
 # List all PPA. 
 
-* Share & Reinstall & Purge easly w/ ppa-purge
+* Share & Reinstall & Purge easly w/ ppa: mode that is the most efficient.
 
 Script that lists all the PPA installed on the system. Share, reinstall or purge PPA`s easly.
 
