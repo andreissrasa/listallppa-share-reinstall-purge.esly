@@ -1,8 +1,8 @@
 # listallppa-share-reinstall-purge.esly
 Script that lists all the PPA installed on the system. Share, reinstall or purge PPA`s easly.
 
-1.Download the file.
-ffdd00
+![#f03c15] 1.Download the file.
+![#f03c15]
 
 2.Make the file executible in superuser mode.
    chmod +x  installppa
