@@ -15,3 +15,5 @@ Scripts that lists all the PPA installed on the system. Share, reinstall or purg
 4.Open terminal and  type advancedppa or ppa-minimal to show you the desired content.
 
 ![alt text](https://user-images.githubusercontent.com/11731109/30289287-534c2c52-9734-11e7-9bf9-10ff157cab67.png)
+
+Copyright 2019
